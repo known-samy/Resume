@@ -1,2 +1,2 @@
 # Resume
-My Resume Using HTML and CSS
+My Resume Using HTML and CSS.
